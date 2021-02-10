@@ -8,5 +8,4 @@
 
 ### AUTHORS:
 **Mikhail Murunov**
----
 **Anis Tohtaliev**
