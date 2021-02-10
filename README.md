@@ -7,5 +7,5 @@
 И из-за этого качество бота оставляет желать лучшего...
 
 ### AUTHORS:
-**Mikhail Murunov**
-**Anis Tohtaliev**
+* **Mikhail Murunov**
+* **Anis Tohtaliev**
