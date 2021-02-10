@@ -1,12 +1,12 @@
 # HackAtomBot
 
 
-# ABOUT PROJECT
+### ABOUT PROJECT
 Проект был реализован в рамках хакатона "HackAtom" в кейсе "Графство".
 В связи с внешними обстоятельствами времени на это задание было очень мало 
 И из-за этого качество бота оставляет желать лучшего...
-#
 
-# AUTHORS:
-Mikhail Murunov
-Anis Tohtaliev
+### AUTHORS:
+**Mikhail Murunov**
+---
+**Anis Tohtaliev**
